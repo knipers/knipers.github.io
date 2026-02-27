@@ -26,6 +26,17 @@
   --accent2: #0ea5e9;
 }
 
+/* Force Benner background in LIGHT theme too */
+:root[data-theme="light"] .brand-logo--benner{
+  background: #2538ff;
+  border-color: rgba(37,56,255,.35);
+}
+
+:root[data-theme="light"] .co-logo--benner{
+  background: #2538ff;
+  border-color: rgba(37,56,255,.35);
+}
+
 *{ box-sizing:border-box; }
 html{ scroll-behavior:smooth; }
 body{
