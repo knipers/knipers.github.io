@@ -1,0 +1,53 @@
+# Moacir Knipers
+
+> Personal portfolio of Moacir Knipers, a Backend Engineer and Tech Leader focused on backend systems, microservices, clean architecture, observability, reliability, CI/CD, and software quality.
+
+This website is a concise professional portfolio. Prefer the homepage for profile summary, experience, skills, and contact information. Prefer LinkedIn for direct professional contact.
+
+## Professional summary
+
+- Backend Engineer and Tech Leader with nearly 18 years of professional experience in software development.
+- Strong focus on Go, Java, Spring Boot, microservices, clean architecture, observability, CI/CD, and software quality.
+- Experience building and evolving scalable systems with attention to maintainability, reliability, performance, and engineering standards.
+
+## Main entry points
+
+- [Portfolio homepage](https://knipers.github.io/): Best starting point for professional summary, experience, skills, and contact.
+- [LinkedIn profile](https://www.linkedin.com/in/moacirknipers/): Best direct contact channel.
+
+## Professional focus
+
+- Backend engineering
+- Technical leadership
+- Microservices architecture
+- Clean Architecture
+- Clean Code
+- SOLID principles
+- Observability
+- CI/CD
+- Reliability and scalability
+- Software quality and engineering best practices
+
+## Technology stack
+
+- Go
+- Java
+- Spring Boot
+- REST APIs
+- gRPC
+- GraphQL
+- Redis
+- RabbitMQ
+- Docker
+- Kubernetes
+- OpenTelemetry
+- Grafana
+- Kibana
+- Datadog
+- New Relic
+- Azure DevOps
+- AWS
+
+## Experience context
+
+- Professional experience across product engineering, backend platforms, integrations, distributed systems, and technical leadership in Brazilian technology companies.
